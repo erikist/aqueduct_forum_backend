@@ -1,6 +1,15 @@
-# aqueduct_forum_backend
+# Aqueduct Forum Backend
 
-An application built with [aqueduct](https://github.com/stablekernel/aqueduct).
+An application built with [aqueduct](https://github.com/stablekernel/aqueduct) for serving up a forum for aqueduct. How meta.
+
+## Before You Start
+
+We need a few environment variables setup for the application to use. Add this to your `.bash_profile` or `.zshrc` or whatever shell client you are using with this appication. You can get these from [registering the application on github.](https://github.com/settings/applications/new)
+
+```
+export GH_BASIC_CLIENT_ID=yourgithubclientid
+export GH_BASIC_SECRET_ID=yourgithubsecretid
+```
 
 ## First Time Setup
 
