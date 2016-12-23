@@ -12,6 +12,7 @@ workspace.xml
 Dart_Packages.xml
 .DS_Store
 .idea/dictionaries
+.idea/
 migrations/migration.yaml
 error.log
 .aqueductpid
